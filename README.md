@@ -65,9 +65,4 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![Kawtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KawtarKhallouq&show_icons=true&theme=radical)
-
-![Kawtar's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=KawtarKhallouq&theme=react-dark)
 
